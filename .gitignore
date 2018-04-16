@@ -4,3 +4,4 @@ virtualenv
 __pychahe__
 *.pyc
 /static
+.idea/
