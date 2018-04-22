@@ -5,3 +5,4 @@ __pychahe__
 *.pyc
 /static
 .idea/
+.env
